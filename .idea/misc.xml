@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_geo_fence_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_geo_fencing.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_menu.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_set_geo_fencing.xml" value="0.10462962962962963" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_show_geo_fencing.xml" value="0.176" />
+        <entry key="..\:/Users/huihu/AndroidStudioProjects/c200/App/app/src/main/res/layout/activity_show_me.xml" value="0.22456140350877193" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
